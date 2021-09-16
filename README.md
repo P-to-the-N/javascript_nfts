@@ -7,13 +7,6 @@
 ```!bash
 ❯ npx hardhat compile
 Compiling 13 files with 0.8.0
-Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it "abstract" is sufficient.
-  --> contracts/MyNFT.sol:20:5:
-   |
-20 |     constructor() public ERC721("TheOsunRiver", "TOR") {}
-   |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
 Compilation finished successfully
 ```
 
