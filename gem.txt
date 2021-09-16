@@ -1,0 +1,11 @@
+    ~/dev/crypto/nfts/quicknode                 1.84   54%   31.79G 
+❯ ipfs add gem1.png                                 188.155.26.115   100% 
+added QmbiE1iQ3448dhmG7ZRXk8BMLUsXTQJBbji2qEZh8EuTTd gem1.png
+ 64.82 KiB / 64.82 KiB [===============================================] 100.00%
+
+
+
+    ~/dev/crypto/nfts/quicknode                 1.81   54%   31.78G 
+❯ ipfs add nft.json                                 188.155.26.115   100% 
+added QmSxRrg7sccULyNueJLSzS63hhiULgX5be3UidS9vvyZWr nft.json
+ 170 B / ? [------------------------------=-----------------------------------]
